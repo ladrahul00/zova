@@ -1,0 +1,29 @@
+{
+  "name": "zova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PratikLad0/Zova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PratikLad0/Zova/issues"
+  },
+  "homepage": "https://github.com/PratikLad0/Zova#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/node": "^14.14.25",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
